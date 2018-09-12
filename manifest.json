@@ -1,0 +1,20 @@
+{
+    "applicationName": "Volume",
+    "contactEmail": "gianni@ebi.ac.uk",
+    "about": "Data storage volume instance",
+    "version": "0.1",
+    "cloudProviders": [
+        {
+            "cloudProvider": "OSTACK",
+            "path": "ostack"
+        }
+    ],
+    "inputs": [
+        "size"
+    ],
+    "deploymentParameters": [
+    ],
+    "outputs": [
+        "volume_id"
+    ]
+}
