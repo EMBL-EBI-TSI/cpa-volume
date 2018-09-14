@@ -25,3 +25,4 @@ The only required input is the size, which is the Volume size in GB.
 | Input name              | Input value             |
 | ---                     | ---                     |
 | `size`                  | `10`                    |
+
