@@ -1,3 +1,6 @@
+> **Note**
+> The EBI Cloud Portal has been retired and its code base is no longer updated.
+
 # TSI Cloud Portal - Data storage volume
 Data storage volume instance.  
 
